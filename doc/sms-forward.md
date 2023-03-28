@@ -1,6 +1,8 @@
 Forward received SMS
 ====================
 
+![required RouterOS version](https://img.shields.io/badge/RouterOS-7.9beta4-yellow?style=flat)
+
 [⬅️ Go back to main README](../README.md)
 
 > ℹ️ **Info**: This script can not be used on its own but requires the base
